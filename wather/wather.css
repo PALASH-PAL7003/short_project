@@ -1,0 +1,56 @@
+*{
+    border: 5px;
+}
+
+.wather h1{
+    font-size: large;
+    color: rgb(0, 255, 217);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.place{
+    text-align: center;
+}
+#place{
+    border: solid black;
+}
+
+.day1{
+    background-color: coral;
+    text-align: center;
+    color: white;
+    font-family: "Courier New", Courier, monospace;
+    /* border: 0 20px 0 20px; */
+    height: 7vh;
+    width: 100vw;
+    padding: 27px 0 0 0;
+    border-radius: 50%;
+    display: none;
+}
+
+.day2{
+    background-color: rgb(225, 145, 34);
+    text-align: center;
+    color: white;
+    font-family: "Courier New", Courier, monospace;
+    border: 15px;
+    height: 7vh;
+    width: 100vw;
+    padding: 27px 0 0 0;
+    border-radius: 50%;
+    display: none;
+}
+
+.day3{
+    background-color: rgb(199, 184, 26);
+    text-align: center;
+    color: white;
+    font-family: "Courier New", Courier, monospace;
+    border: 15px;
+    height: 7vh;
+    width: 100vw;
+    padding: 27px 0 0 0;
+    border-radius: 50%;
+    display: none;
+}
